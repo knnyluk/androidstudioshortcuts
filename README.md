@@ -1,2 +1,2 @@
 # androidstudioshortcuts
-![nested nav](http://imgur.com/OGuyRXw)
+![Imgur](http://i.imgur.com/OGuyRXw.png)
