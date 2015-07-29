@@ -4,6 +4,8 @@
 ![Imgur](http://i.imgur.com/GRP6OKC.png)
 ###### Comment
 ![Imgur](http://i.imgur.com/4E7CJGf.png)
+###### Copy
+![Imgur](http://i.imgur.com/NQBDh6z.png)
 ###### Refactor
 ![Imgur](http://i.imgur.com/4E7CJGf.png)
 ###### Surround with
