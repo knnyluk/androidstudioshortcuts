@@ -2,7 +2,7 @@
 
 ## Code completion
 ![Imgur](http://i.imgur.com/GRP6OKC.png)
-###### Surround with
+- ###### Surround with
 ![Imgur](http://i.imgur.com/sTjH0iP.png)
 
 
